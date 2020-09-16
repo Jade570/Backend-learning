@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/backend-learning/static/css/main.5f361e03.chunk.css",
+    "main.js": "/backend-learning/static/js/main.df039f34.chunk.js",
+    "main.js.map": "/backend-learning/static/js/main.df039f34.chunk.js.map",
+    "runtime-main.js": "/backend-learning/static/js/runtime-main.baf5a03f.js",
+    "runtime-main.js.map": "/backend-learning/static/js/runtime-main.baf5a03f.js.map",
+    "static/js/2.a1973f6f.chunk.js": "/backend-learning/static/js/2.a1973f6f.chunk.js",
+    "static/js/2.a1973f6f.chunk.js.map": "/backend-learning/static/js/2.a1973f6f.chunk.js.map",
+    "index.html": "/backend-learning/index.html",
+    "precache-manifest.2fcabd4dc018de2ce3ce2b4e6b5e123f.js": "/backend-learning/precache-manifest.2fcabd4dc018de2ce3ce2b4e6b5e123f.js",
+    "service-worker.js": "/backend-learning/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/backend-learning/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a1973f6f.chunk.js.LICENSE.txt": "/backend-learning/static/js/2.a1973f6f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/backend-learning/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baf5a03f.js",
+    "static/js/2.a1973f6f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.df039f34.chunk.js"
+  ]
+}
